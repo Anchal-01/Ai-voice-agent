@@ -37,7 +37,7 @@ const Integration = () => {
             <p className="text-muted-foreground mb-6">
               Trusted by 350+ enterprises worldwide
             </p>
-            <Button size="lg" className="glow-effect-cyan group">
+            <Button size="lg" className="glow-effect-coral group">
               View All Integrations
               <ArrowRight className="ml-2 h-5 w-5 group-hover:translate-x-1 transition-transform" />
             </Button>
